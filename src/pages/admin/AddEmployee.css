@@ -1,0 +1,112 @@
+/* ================================
+   Overall Dashboard Background
+================================ */
+.admin-dashboard {
+  display: flex;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #eef2ff, #f8fafc);
+  font-family: "Inter", "Segoe UI", sans-serif;
+}
+
+/* ================================
+   Sidebar (Elegant Dark)
+================================ */
+.sidebar {
+  width: 260px;
+  background: linear-gradient(180deg, #020617, #0f172a);
+  color: #e5e7eb;
+  padding: 24px 20px;
+  min-height: 100vh;
+  box-shadow: 6px 0 25px rgba(2, 6, 23, 0.5);
+}
+
+/* ================================
+   Main Content Area
+================================ */
+.dashboard-content {
+  flex: 1;
+  padding: 32px;
+  background: transparent;
+}
+
+/* ================================
+   Add Employee Form Card
+================================ */
+.AddEmp-content {
+  background: linear-gradient(180deg, #ffffff, #f8fafc);
+  padding: 36px 32px;
+  border-radius: 18px;
+  width: 85%;
+  margin: 24px auto;
+  box-shadow:
+    0 18px 35px rgba(15, 23, 42, 0.18),
+    inset 0 1px 0 rgba(255, 255, 255, 0.7);
+}
+
+/* ================================
+   Form Sections (Soft Panels)
+================================ */
+fieldset {
+  border: 1px solid #e2e8f0;
+  padding: 22px;
+  border-radius: 14px;
+  background: linear-gradient(135deg, #f1f5f9, #ffffff);
+  margin-bottom: 26px;
+}
+
+/* ================================
+   Labels
+================================ */
+label {
+  font-weight: 600;
+  font-size: 14px;
+  display: block;
+  margin: 14px 0 6px;
+  color: #334155;
+  letter-spacing: 0.3px;
+}
+
+/* ================================
+   Input & Select Fields
+================================ */
+input,
+select {
+  width: 100%;
+  padding: 14px;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  margin-bottom: 18px;
+  font-size: 14px;
+  background: #ffffff;
+  transition: all 0.25s ease;
+}
+
+input:focus,
+select:focus {
+  border-color: #6366f1;
+  box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.25);
+  outline: none;
+}
+
+/* ================================
+   Submit Button (Primary Action)
+================================ */
+button {
+  margin-top: 10px;
+  background: linear-gradient(135deg, #6366f1, #4338ca);
+  color: #ffffff;
+  padding: 14px;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  width: 100%;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.4px;
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 14px 30px rgba(99, 102, 241, 0.45);
+}
