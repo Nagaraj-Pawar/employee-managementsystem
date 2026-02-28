@@ -115,6 +115,7 @@ Clean REST architecture
 Bootstrap responsive UI
 Secure data separation per employee
 Real-world enterprise design
+<img width="1910" height="982" alt="image" src="https://github.com/user-attachments/assets/b071d3ea-8e2f-4da6-8659-8105bd3fcfca" />
 <img width="1901" height="972" alt="Screenshot 2026-01-13 175101" src="https://github.com/user-attachments/assets/29601a2e-5927-42c4-9fbd-64d04ea9131f" />
 <img width="1899" height="806" alt="Screenshot 2026-01-13 175120" src="https://github.com/user-attachments/assets/1373b2ec-196a-44a7-be30-00d81424f17b" <img width="1894" height="965" alt="Screenshot 2026-01-13 175141" src="https://github.com/user-attachments/assets<img width="1917" height="922" alt="Screenshot 2026-01-13 175153" src="https://github.com/user-attachments/assets/89ce67f8-2576-413b-a4d5-657de2051197" /><img width="1899" height="806" alt="Screenshot 2026-01-13 175120" src="https://github.com/user-attachments/assets/b380441d-476b-42a2-be58-6a0e2805186e" />#
 /e3abd9fb-cadc-46fd-a026-9c5bd15faa4a" />
